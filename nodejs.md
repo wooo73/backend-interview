@@ -139,5 +139,5 @@ db.query("select * from test", (data) => {
 
 ---
 
-[주요 참고 자료](https://www.korecmblog.com/blog/node-js-event-loop)
-[nodejs의 내부 동작 원리](https://sjh836.tistory.com/149)
+- [주요 참고 자료](https://www.korecmblog.com/blog/node-js-event-loop)
+- [nodejs의 내부 동작 원리](https://sjh836.tistory.com/149)
