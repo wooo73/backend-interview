@@ -38,6 +38,13 @@
 논블로킹 작업은 작업이 완료되지 않아도 제어권을 즉시 반환하는 방식입니다.
 </details>
 
+<details>
+<summary>Restful API에 대해 설명해주세요.</summary>
+HTTP URI(Uniform Resource Identifier)을 통하여 자원을 명시하고, HTTP Method(POST, GET, PUT, DELETE)를 통하여 자원에 대한 행위를 정하는 REST 원칙을 준수한 API를 말합니다.</br>
+예를 들어, 사용자 정보를 관리하는 API에서 GET /users는 사용자 목록 조회, POST /users는 사용자 생성, PUT /users/{id}는 사용자 정보 수정, DELETE /users/{id}는 사용자 삭제를 의미합니다.
+명확한 표준이 존재하지 않아, restful을 완전히 만족하는 API를 만들기는 까다롭다고 알고 있습니다.
+</details>
+
 ### Javascript
 
 ---
@@ -196,6 +203,8 @@ container는 이 이미지를 바탕으로 실행된 인스턴스로 실행 중�
 ---
 
 ### OS
+
+---
 
 <details>
 <summary>프로세스와 쓰레드의 차이에 대해 설명해주세요.</summary>
