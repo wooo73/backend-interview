@@ -169,6 +169,24 @@ EXPLAIN을 통해 조인 쿼리의 실행 계획을 분석후 조치합니다.</
 
 ---
 
+<details>
+<summary>Docker에 대해서 알려주세요.</summary>
+Docker는 컨테이너화 기술을 사용하여 애플리케이션을 개발, 배포 및 실행할 수 있게 해주는 오픈 소스 플랫폼입니다.</br>
+이를 통해 애플리케이션이 실행되는 환경에 구애받지 않고 일관된 동작을 보장할 수 있습니다.
+</details>
+
+<details>
+<summary>컨테이너 기술에 대해서 알려주세요.</summary>
+컨테이너화란 애플리케이션과 그 종속성을 하나의 독립적으로 패키징하는 방식입니다.
+</details>
+
+<details>
+<summary>Docker image와 container의 차이점에 대해서 알려주세요.</summary>
+Docker image는 애플리케이션과 의존성을 포함한 불변의 템플릿입니다.</br>
+container는 이 이미지를 바탕으로 실행된 인스턴스로 실행 중인 애플리케이션입니다.</br>
+이미지는 설계도 컨테이너는 이를 통해 만들어진 건물과 같습니다.</br>
+</details>
+
 ### Data Structure
 
 ---
